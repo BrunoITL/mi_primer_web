@@ -43,6 +43,7 @@ body{
     align-items: center;
     min-height: 100vh;
     margin: 0;
+    transition: background-color 1s ease, color 1s ease;
 }
 
 @media (max-width: 500px) {
